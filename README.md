@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nibandha
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning frontend web development.
+- 🌱 I’m currently learning C# Programming with .NET framework.
 
 - 📫 How to reach me subedinibandha@gmail.com
 
